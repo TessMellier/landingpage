@@ -104,3 +104,13 @@ lia{
     text text-decoration: none;
 }
 
+nav{
+margin-top: 10px;
+background-color: darkgrey;
+text-align: center;
+padding: 3px;
+}
+ul{
+
+list-style-type: none;
+}
